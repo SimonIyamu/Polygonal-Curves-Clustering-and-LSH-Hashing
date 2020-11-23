@@ -1,2 +1,0 @@
-curve_id1
-curve_id3
