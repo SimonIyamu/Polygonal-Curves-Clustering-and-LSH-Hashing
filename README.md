@@ -11,9 +11,11 @@ Employed various approaches:
 Initialization:  
 - Random selection of K points/K curves  
 - K-means++  
+
 Assignment:  
 - Lloyd's assignment  
 - Assigment by Range search with LSH for points/curves (inverse assignment)  
+
 Update:  
 - Partitioning Aroung Medoids (PAM) a la Lloyds  
 - Mean Vector / DTW centroid curve  
