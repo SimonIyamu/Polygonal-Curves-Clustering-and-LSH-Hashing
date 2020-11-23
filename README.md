@@ -21,5 +21,5 @@ Update:
 - Mean Vector / DTW centroid curve  
 
 **Part 3: Unit testing**  
-
+------------------------
 This project was developed in the context of the "Software Development for Hard Algorithmic Problems" course of the Departments of Infomatrics and Telecommunications of the University of Athems.
