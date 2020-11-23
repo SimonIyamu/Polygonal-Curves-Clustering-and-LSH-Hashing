@@ -1,6 +1,6 @@
 # Polygonal Curves Clustering & LSH Hashing
 
-Part 1: LSH
+Part 1: LSH 
 Implementation of LSH (Locality-sensitive hashing) algorithm for the hashing of points and polygonal curves(sequences of points).
 src/ANN/
 
